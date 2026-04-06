@@ -5,11 +5,11 @@
 <img width="1200" height="475" alt="SurgiCoachYTcover" src="[https://ortho-x.maivan.ai/wp-content/uploads/2025/03/cropped-Gemini_ORTHO-X.fyi_Logo_color_small-1.jpg](https://maivan.ai/wp-content/uploads/2026/04/ORTHO-X_SurgiCoach_YT-cover.png)" />
 </div>
 
-<!-- wp:embed {"url":"https://youtu.be/Lo3DbIMQlWY?si=ULqMazaqCg9ELinz","type":"video","providerNameSlug":"youtube","responsive":true,"align":"center","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/Lo3DbIMQlWY?si=ULqMazaqCg9ELinz
-</div></figure>
-<!-- /wp:embed -->
+<!-- wp:image {"lightbox":{"enabled":false},"id":994,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://youtu.be/Lo3DbIMQlWY?si=UxdMw4p3SYBCqS4J" target="_blank" rel=" noreferrer noopener"><img src="https://maivan.ai/wp-content/uploads/2026/04/ORTHO-X_SurgiCoach_YT-cover-1024x491.png" alt="" class="wp-image-994"/></a></figure>
+<!-- /wp:image -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lo3DbIMQlWY?si=bhOdHBwo2V1TQ1_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Run and deploy the ORTHO-X SurgiCoach app
 
