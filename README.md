@@ -6,8 +6,6 @@
 <figure class="wp-block-image size-large"><a href="https://youtu.be/Lo3DbIMQlWY?si=UxdMw4p3SYBCqS4J" target="_blank" rel=" noreferrer noopener"><img src="https://maivan.ai/wp-content/uploads/2026/04/ORTHO-X_SurgiCoach_YT-cover-1024x491.png" alt="" class="wp-image-994"/></a></figure>
 <!-- /wp:image -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lo3DbIMQlWY?si=bhOdHBwo2V1TQ1_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 # Run and deploy the ORTHO-X SurgiCoach app
 
 This contains everything you need to run the ORTHO-X SurgiCoach app locally.
