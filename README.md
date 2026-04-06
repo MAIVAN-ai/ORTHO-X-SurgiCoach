@@ -2,6 +2,12 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ortho-x.maivan.ai/wp-content/uploads/2025/03/cropped-Gemini_ORTHO-X.fyi_Logo_color_small-1.jpg" />
 </div>
 
+<!-- wp:embed {"url":"https://youtu.be/Lo3DbIMQlWY?si=ULqMazaqCg9ELinz","type":"video","providerNameSlug":"youtube","responsive":true,"align":"center","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/Lo3DbIMQlWY?si=ULqMazaqCg9ELinz
+</div></figure>
+<!-- /wp:embed -->
+
 # Run and deploy the ORTHO-X SurgiCoach app
 
 This contains everything you need to run the ORTHO-X SurgiCoach app locally.
