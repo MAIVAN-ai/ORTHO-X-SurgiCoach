@@ -1,9 +1,6 @@
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ortho-x.maivan.ai/wp-content/uploads/2025/03/cropped-Gemini_ORTHO-X.fyi_Logo_color_small-1.jpg" />
 </div>
-<div align="center">
-<img width="1200" height="475" alt="SurgiCoachYTcover" src="[https://ortho-x.maivan.ai/wp-content/uploads/2025/03/cropped-Gemini_ORTHO-X.fyi_Logo_color_small-1.jpg](https://maivan.ai/wp-content/uploads/2026/04/ORTHO-X_SurgiCoach_YT-cover.png)" />
-</div>
 
 <!-- wp:image {"lightbox":{"enabled":false},"id":994,"sizeSlug":"large","linkDestination":"custom"} -->
 <figure class="wp-block-image size-large"><a href="https://youtu.be/Lo3DbIMQlWY?si=UxdMw4p3SYBCqS4J" target="_blank" rel=" noreferrer noopener"><img src="https://maivan.ai/wp-content/uploads/2026/04/ORTHO-X_SurgiCoach_YT-cover-1024x491.png" alt="" class="wp-image-994"/></a></figure>
