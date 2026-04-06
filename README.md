@@ -77,7 +77,7 @@ Stateless Security: By routing the MedGemma API calls exclusively through a secu
 Grounded Search: Treatment algorithms utilize Google Search Grounding strictly restricted via site: operators to the AO Foundation Surgery Reference, ensuring 100% accuracy.
 
 5. Execution & Links
-Code Repository: https://github.com/tmorscher/ORTHO-X-SurgiCoach
+Code Repository: https://github.com/MAIVAN-ai/ORTHO-X-SurgiCoach
 
 Demo Video: https://www.youtube.com/watch?v=Lo3DbIMQlWY
 
@@ -103,33 +103,24 @@ Author
 Thomas Morscher
 Creator · thomasmorscher
 
-
-Share
 Competition Prize Track
 Main Track
 Agentic Workflow Prize
 Project Links
 ORTHO-X SurgiCoach Demo App for MedGemma Impact Challenge
+https://www.kaggle.com/competitions/med-gemma-impact-challenge/writeups/ortho-x-surgicoach-medgemma-powered-orthopedic-wo
+
 https://ortho-x-orthopedic-workflow-platform-for-diagnosi-103354814032.us-west1.run.app
 
 ORTHO-X Orthopedic workflow platform for diagnosis, treatment planning, implant selection, outcome assessment, and case documentation
 
 GitHub Repo - MAIVAN.ai/ORTHO-X-SurgiCoach: ORTHO-X Orthopedic workflow platform for diagnosis, treatment planning, implant selection, outcome assessment, and case documentation
-https://github.com/tmorscher/ORTHO-X-SurgiCoach
-
-
-github.com
+https://github.com/MAIVAN-ai/ORTHO-X-SurgiCoach
 
 ORTHO-X connects Surgeons, their Mentors and MedTech partners through AI-driven Insights
 https://ortho-x.maivan.ai/
 
-
 maivan.ai
-
 The SurgiCorder® Intelligence Suite >> A joint effort for safer surgery
 https://maivan.ai/the-surgicorder-intelligence-suite-%e2%86%92-a-collaborative-development/
-
-
-maivan.ai
-
 SurgiCorder® Intelligence Suite : The Orthopedic Execution OS | SurgiCorder® > SurgiCoach > SurgiNaut
